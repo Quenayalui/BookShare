@@ -11,6 +11,8 @@ module.exports = {
         /** primary */
         "prosperity": "#FCFF52",
         "forest": "#476520",
+        "black": "#262626",
+        "grey": "#cdccc5",
         /** base */
         "gypsum": "#FCF6F1",
         "sand": "#E7E3D4",
