@@ -8,4 +8,9 @@ export default function Home() {
 			<CostCalculator />
 		</div>
 	);
+	return (
+		<div>
+			<CostCalculator />
+		</div>
+	);
 }
