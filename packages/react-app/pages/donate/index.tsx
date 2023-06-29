@@ -10,7 +10,7 @@ export default function DonatePage() {
 		args: [parseEther("0.1")],
 	});
 	return (
-		<div>
+		<div className="max-w-lg">
 			<button
 				className="bg-black px-3 py-2 rounded-s text-white"
 				onClick={() => write()}
