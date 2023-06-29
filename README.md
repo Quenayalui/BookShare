@@ -1,7 +1,7 @@
 # Libreria Libre
 This is an open-source web-app to help permanently archive texts, books and other literary work. We imagine it to be of particular use for the political struggles of marginalized groups facing censorship or other information suppression.
 
-Uploaders anonymously submit files to the app they wish to be archived. If they don't have the funds for archival, the files are listed as seeking funding, and a smart contract is created. Funders may provide archival funds. When a files target it reached, the app sends the files to Bundlr (and ultimately Arweave) with funds from an app wallet. When the smart contract detects the has of the file in Arweave, it releases funds to the app wallet. The app wallet keeps a stable balance over time, the smart contract performs escrow.
+Uploaders anonymously submit files to the app they wish to be archived. If they don't have the funds for archival, the files are listed as seeking funding, and a smart contract is created. Funders may provide archival funds. When a files target it reached, the app sends the files to Bundlr (and ultimately Arweave) with funds from an app wallet. When the smart contract detects the hash of the file in Arweave, it releases funds to the app wallet. The app wallet keeps a stable balance over time, the smart contract performs escrow.
 
 ![](overview.png)
 
